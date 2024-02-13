@@ -27,7 +27,7 @@
 
 Hello rails back end is a Rails API application that returns JSON
 
-## Frontend Project: [Hello-Rails-Backend](https://github.com/mryeminthu/hello-react-front-end)
+Link to [Hello-Rails-Frontend](https://github.com/mryeminthu/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
