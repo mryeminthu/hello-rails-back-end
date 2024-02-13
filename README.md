@@ -1,3 +1,6 @@
+<div align="center">  
+  <h2><b>Hello Rails Backend</b></h2>
+</div>
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
